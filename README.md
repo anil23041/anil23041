@@ -65,12 +65,3 @@ I'm **Anil**, a self-motivated front-end developer from Faridabad, India 🇮�
 > I once created a simple JavaScript palindrome checker that evolved into a string analysis toolkit. All in pure JS!
 
 ---
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&center=true&vCenter=true&width=435&lines=Thanks+for+visiting+my+profile!;Let's+build+cool+things+together+🚀" alt="Typing SVG" />
-</p>
-
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
