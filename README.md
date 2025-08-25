@@ -56,7 +56,7 @@ I'm **Anil**, a self-motivated front-end developer from Faridabad, India 🇮�
 ## 📫 Connect with Me
 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/anil-b44385331/)
-- ✉️ `anil23041@example.com` *(replace with your real email)*
+- ✉️ av701588@gmail.com
 
 ---
 
